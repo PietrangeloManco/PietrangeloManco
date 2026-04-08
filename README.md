@@ -13,7 +13,7 @@ I build AI/ML and full-stack products with a focus on health tech, predictive sy
 ## Selected work
 
 - [Prisma_IDE](https://github.com/PietrangeloManco/Prisma_IDE)  
-  LSTM-based platform designed to anticipate the deterioration of clinical conditions, integrated with a companion Android app and wearable data collection. Live: [deltaprisma.it](https://deltaprisma.it/)
+  LSTM-based platform designed to anticipate the deterioration of clinical conditions, integrated with a companion Android app and wearable data collection. Live: [deltaprisma.it](https://deltaprisma.it/) · App: [DeltaPrisma on Google Play](https://play.google.com/store/apps/details?id=com.pietro.healthconnectmonitor&hl=it)
 
 - [Omnipredict_IDE](https://github.com/PietrangeloManco/Omnipredict_IDE)  
   Web platform for sarcopenia prediction built around a deployed classifier and a production-ready application workflow. Live: [omnipredict.it](https://omnipredict.it/)
