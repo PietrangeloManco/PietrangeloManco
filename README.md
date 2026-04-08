@@ -7,7 +7,7 @@ I build AI/ML and full-stack products with a focus on health tech, predictive sy
 - MSc in Artificial Intelligence and Data Engineering, University of Pisa
 - BSc in Physics, University of Pisa
 - AI/ML full-stack developer at Centro Delta
-- Based in Benevento, Italy
+- Based in Pisa, Italy
 - Interested in applied machine learning, information retrieval, and end-to-end product development
 
 ## Selected work
