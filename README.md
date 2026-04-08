@@ -42,3 +42,17 @@ I build AI/ML and full-stack products with a focus on health tech, predictive sy
 - [DeltaPrisma Android app](https://play.google.com/store/apps/details?id=com.pietro.healthconnectmonitor&hl=it)
 - [Omnipredict](https://omnipredict.it/)
 - [MedLavDelta](https://medlavdelta.it/)
+
+## Product previews
+
+### Prisma
+
+<img src="assets/screenshots/prisma-landing.png" alt="Prisma landing page" width="340" />
+
+### Omnipredict
+
+<img src="assets/screenshots/omnipredict-manual.png" alt="Omnipredict manual prediction" width="720" />
+
+### MedLavDelta
+
+<img src="assets/screenshots/medlav-admin-redacted.png" alt="MedLavDelta admin dashboard" width="720" />
