@@ -1,23 +1,25 @@
 # Pietrangelo Manco
 
-I am an AI/ML and full-stack developer working on production health tech, predictive systems, and applied machine learning projects.
+I build AI/ML and full-stack products with a focus on health tech, predictive systems, and production-ready applications.
 
 ## About me
 
 - MSc in Artificial Intelligence and Data Engineering, University of Pisa
+- BSc in Physics, University of Pisa
 - AI/ML full-stack developer at Centro Delta
-- Focused on health tech, predictive modeling, information retrieval, and end-to-end product development
+- Based in Benevento, Italy
+- Interested in applied machine learning, information retrieval, and end-to-end product development
 
-## Selected projects
+## Selected work
 
 - [Prisma_IDE](https://github.com/PietrangeloManco/Prisma_IDE)  
-  LSTM-based platform designed to anticipate the deterioration of clinical conditions, integrated with a companion Android app and wearable data collection.
+  LSTM-based platform designed to anticipate the deterioration of clinical conditions, integrated with a companion Android app and wearable data collection. Live: [deltaprisma.it](https://deltaprisma.it/)
 
 - [Omnipredict_IDE](https://github.com/PietrangeloManco/Omnipredict_IDE)  
-  Web platform for sarcopenia prediction built around a deployed classifier and a production-ready application workflow.
+  Web platform for sarcopenia prediction built around a deployed classifier and a production-ready application workflow. Live: [omnipredict.it](https://omnipredict.it/)
 
 - [MedLavDelta_IDE](https://github.com/PietrangeloManco/MedLavDelta_IDE)  
-  Management platform for occupational medicine workflows used in the context of Centro Delta.
+  Management platform for occupational medicine workflows used in the context of Centro Delta. Live: [medlavdelta.it](https://medlavdelta.it/)
 
 - [MIRCV-Project](https://github.com/PietrangeloManco/MIRCV-Project)  
   Search engine project focused on scalable multimedia information retrieval and large document collections.
