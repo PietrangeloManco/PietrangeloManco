@@ -47,7 +47,9 @@ I build AI/ML and full-stack products with a focus on health tech, predictive sy
 
 ### Prisma
 
-<img src="assets/screenshots/prisma-landing.png" alt="Prisma landing page" width="340" />
+<img src="assets/screenshots/prisma-landing.png" alt="Prisma landing page" width="280" />
+<img src="assets/screenshots/prisma-app-home.jpeg" alt="Prisma app monitoring home" width="280" />
+<img src="assets/screenshots/prisma-app-dashboard.jpeg" alt="Prisma app predictions dashboard" width="280" />
 
 ### Omnipredict
 
