@@ -47,7 +47,7 @@ AI/ML engineer and full-stack developer building health tech, predictive systems
 - [MedLavDelta_IDE](https://github.com/PietrangeloManco/MedLavDelta_IDE)  
   Management platform for occupational medicine workflows used in the context of Centro Delta.
 
-- [machine-unlearning-object-detection](https://github.com/PietrangeloManco/machine-unlearning-object-detection)  
+- [ObjectDetectionUnlearning](https://github.com/PietrangeloManco/ObjectDetectionUnlearning)  
   Public companion repository for my master's thesis on machine unlearning for object detection, focused on privacy-oriented forgetting and correction-oriented unlearning workflows.
 
 - [MIRCV-Project](https://github.com/PietrangeloManco/MIRCV-Project)  
