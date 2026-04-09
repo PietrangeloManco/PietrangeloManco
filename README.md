@@ -68,37 +68,49 @@ AI/ML engineer and full-stack developer building health tech, predictive systems
 
 ## Product previews
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="assets/screenshots/prisma-landing.png" alt="Prisma landing page" width="100%" />
-      <br />
-      <sub><b>Prisma web platform</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/screenshots/prisma-app-home.jpeg" alt="Prisma app monitoring home" width="100%" />
-      <br />
-      <sub><b>Prisma app monitoring</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/screenshots/prisma-app-dashboard.jpeg" alt="Prisma app predictions dashboard" width="100%" />
-      <br />
-      <sub><b>Prisma app dashboard</b></sub>
-    </td>
-  </tr>
-</table>
+### Prisma
 
 <table>
   <tr>
+    <th align="center" width="33%">Web platform</th>
+    <th align="center" width="33%">Monitoring app</th>
+    <th align="center" width="33%">Prediction dashboard</th>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/screenshots/prisma-landing.png" alt="Prisma landing page" width="100%" />
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/screenshots/prisma-app-home.jpeg" alt="Prisma app monitoring home" width="100%" />
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/screenshots/prisma-app-dashboard.jpeg" alt="Prisma app predictions dashboard" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Landing and access flow.</sub></td>
+    <td align="center"><sub>Monitoring state and app entry point.</sub></td>
+    <td align="center"><sub>Predictions, alerts, and measurements.</sub></td>
+  </tr>
+</table>
+
+### Omnipredict and MedLavDelta
+
+<table>
+  <tr>
+    <th align="center" width="50%">Omnipredict</th>
+    <th align="center" width="50%">MedLavDelta</th>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <img src="assets/screenshots/omnipredict-manual.png" alt="Omnipredict manual prediction" width="100%" />
-      <br />
-      <sub><b>Omnipredict prediction flow</b></sub>
     </td>
     <td align="center" width="50%">
       <img src="assets/screenshots/medlav-admin-redacted.png" alt="MedLavDelta admin dashboard" width="100%" />
-      <br />
-      <sub><b>MedLavDelta operational dashboard</b></sub>
     </td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Manual sarcopenia prediction flow.</sub></td>
+    <td align="center"><sub>Operational dashboard with redacted business data.</sub></td>
   </tr>
 </table>
