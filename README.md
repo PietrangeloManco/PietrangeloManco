@@ -114,3 +114,9 @@ AI/ML engineer and full-stack developer building health tech, predictive systems
     <td align="center"><sub>Operational dashboard with redacted business data.</sub></td>
   </tr>
 </table>
+
+## Contact
+
+- GitHub: [github.com/PietrangeloManco](https://github.com/PietrangeloManco)
+- LinkedIn: [linkedin.com/in/pietrangelomanco](https://www.linkedin.com/in/pietrangelomanco/)
+- Email: `pietrangelo.manco26@gmail.com`
