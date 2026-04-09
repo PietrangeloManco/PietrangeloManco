@@ -12,10 +12,10 @@ AI/ML engineer and full-stack developer building health tech, predictive systems
 </p>
 
 <p>
-  <a href="https://github.com/PietrangeloManco">GitHub</a> ·
-  <a href="https://deltaprisma.it/">DeltaPrisma</a> ·
-  <a href="https://play.google.com/store/apps/details?id=com.pietro.healthconnectmonitor&hl=it">DeltaPrisma App</a> ·
-  <a href="https://omnipredict.it/">Omnipredict</a> ·
+  <a href="https://github.com/PietrangeloManco">GitHub</a> |
+  <a href="https://deltaprisma.it/">DeltaPrisma</a> |
+  <a href="https://play.google.com/store/apps/details?id=com.pietro.healthconnectmonitor&hl=it">DeltaPrisma App</a> |
+  <a href="https://omnipredict.it/">Omnipredict</a> |
   <a href="https://medlavdelta.it/">MedLavDelta</a>
 </p>
 
@@ -46,6 +46,9 @@ AI/ML engineer and full-stack developer building health tech, predictive systems
 
 - [MedLavDelta_IDE](https://github.com/PietrangeloManco/MedLavDelta_IDE)  
   Management platform for occupational medicine workflows used in the context of Centro Delta.
+
+- [machine-unlearning-object-detection](https://github.com/PietrangeloManco/machine-unlearning-object-detection)  
+  Public companion repository for my master's thesis on machine unlearning for object detection, focused on privacy-oriented forgetting and correction-oriented unlearning workflows.
 
 - [MIRCV-Project](https://github.com/PietrangeloManco/MIRCV-Project)  
   Search engine project focused on scalable multimedia information retrieval and large document collections.
