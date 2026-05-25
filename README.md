@@ -38,13 +38,13 @@ AI/ML engineer and full-stack developer building health tech, predictive systems
 
 ## Selected work
 
-- [Prisma_IDE](https://github.com/PietrangeloManco/Prisma_IDE)  
+- **Prisma** ([public workflow notebook](notebooks/Prisma_Public_Workflow.ipynb))<br>
   Remote-monitoring platform designed to anticipate clinical deterioration through a web platform, a companion Android app, and wearable-driven data collection.
 
-- [Omnipredict_IDE](https://github.com/PietrangeloManco/Omnipredict_IDE)  
+- **Omnipredict** ([public workflow notebook](notebooks/Omnipredict_Public_Workflow.ipynb))<br>
   Sarcopenia prediction platform built around a deployed classifier and a production-ready web workflow.
 
-- [MedLavDelta_IDE](https://github.com/PietrangeloManco/MedLavDelta_IDE)  
+- **MedLavDelta**<br>
   Management platform for occupational medicine workflows used in the context of Centro Delta.
 
 - [ObjectDetectionUnlearning](https://github.com/PietrangeloManco/ObjectDetectionUnlearning)  
@@ -59,14 +59,48 @@ AI/ML engineer and full-stack developer building health tech, predictive systems
 - [LaptopPricePrediction](https://github.com/PietrangeloManco/LaptopPricePrediction)  
   Data mining and machine learning project for predicting laptop price ranges from hardware specifications.
 
+## Private and internal work
+
+- **My Centro Delta** ([live platform](https://mycentrodelta.com/))<br>
+  Django appointment-management platform for outpatient clinic operations, covering patient access, doctor and service catalogues, booking requests, role-aware dashboards, and communication workflows.
+
+- **Delta Biotech Platform** ([live platform](https://deltabiotechpharma.it/))<br>
+  Django internal operational platform for laboratory and business workflows, covering activity planning, instrumentation, inventory, formulas, documentation, and role-based access.
+
+- **Banknotes.eu**<br>
+  Astro and MDX bilingual encyclopedic website about euro banknotes, organized around official sources, banknote series, security features, signatures, printing offices, serial-number context, and legal-tender status.
+
 ## Live products
 
 - [DeltaPrisma web platform](https://deltaprisma.it/)
 - [DeltaPrisma Android app](https://play.google.com/store/apps/details?id=com.pietro.healthconnectmonitor&hl=it)
 - [Omnipredict](https://omnipredict.it/)
 - [MedLavDelta](https://medlavdelta.it/)
+- [My Centro Delta](https://mycentrodelta.com/)
+- [Delta Biotech Pharma](https://deltabiotechpharma.it/)
 
 ## Product previews
+
+### My Centro Delta and Delta Biotech
+
+<table>
+  <tr>
+    <th align="center" width="50%">My Centro Delta</th>
+    <th align="center" width="50%">Delta Biotech Pharma</th>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/screenshots/my-centro-delta-home.png" alt="My Centro Delta online booking homepage" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/screenshots/delta-biotech-calendar.png" alt="Delta Biotech Pharma activity calendar" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Online booking flow for doctors, services, and visit requests.</sub></td>
+    <td align="center"><sub>Activity calendar for operational planning, filtering, and follow-up.</sub></td>
+  </tr>
+</table>
 
 ### Prisma
 
