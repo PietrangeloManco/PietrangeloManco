@@ -1,155 +1,84 @@
 <div align="center">
+  <img src="assets/profile-hero.svg" alt="Pietrangelo Manco — AI systems, product engineering, and production systems" width="100%" />
 
-# Pietrangelo Manco
+  <p><strong>AI/ML engineer and full-stack developer turning research and operational problems into dependable products.</strong></p>
 
-AI/ML engineer and full-stack developer building health tech, predictive systems, and production-ready applications.
+  <p>
+    MSc in Artificial Intelligence &amp; Data Engineering, University of Pisa · BSc in Physics · Based in Italy
+  </p>
 
-<p>
-  <img src="https://img.shields.io/badge/MSc-AI%20%26%20Data%20Engineering-1f4db3?style=for-the-badge" alt="MSc AI and Data Engineering" />
-  <img src="https://img.shields.io/badge/BSc-Physics-3f6ab3?style=for-the-badge" alt="BSc Physics" />
-  <img src="https://img.shields.io/badge/Role-AI%2FML%20%26%20Full--Stack-183153?style=for-the-badge" alt="AI ML and Full Stack" />
-  <img src="https://img.shields.io/badge/Company-Centro%20Delta-274472?style=for-the-badge" alt="Centro Delta" />
-</p>
-
-<p>
-  <a href="https://github.com/PietrangeloManco">GitHub</a> |
-  <a href="https://deltaprisma.it/">DeltaPrisma</a> |
-  <a href="https://play.google.com/store/apps/details?id=com.pietro.healthconnectmonitor&hl=it">DeltaPrisma App</a> |
-  <a href="https://omnipredict.it/">Omnipredict</a> |
-  <a href="https://medlavdelta.it/">MedLavDelta</a>
-</p>
-
+  <p>
+    <a href="https://www.linkedin.com/in/pietrangelomanco/">LinkedIn</a> ·
+    <a href="mailto:pietrangelo.manco26@gmail.com">Email</a> ·
+    <a href="https://github.com/PietrangeloManco/ObjectDetectionUnlearning">Featured research</a>
+  </p>
 </div>
 
-## About me
+## Featured work
 
-- MSc in Artificial Intelligence and Data Engineering, University of Pisa
-- BSc in Physics, University of Pisa
-- AI/ML full-stack developer at Centro Delta
-- Based in Pisa, Italy
-- Interested in applied machine learning, deep learning, product integration, and real deployment workflows
+### Machine unlearning for object detection
 
-## What I Build
+`PUBLIC RESEARCH` · `COMPUTER VISION` · `PRIVACY`
 
-- predictive systems that move from research to production
-- full-stack web products for health-related use cases
-- ML-backed interfaces designed around real operational workflows
-- end-to-end projects spanning data, modelling, backend, frontend, and deployment
+My MSc thesis reframed machine unlearning for structured object-detection outputs, with separate privacy-driven deletion and correction-oriented scenarios. The public companion explains the experimental design, evaluation strategy, and research conclusions without releasing supervised research code, datasets, or checkpoints.
 
-## Selected work
+[Explore the case study →](https://github.com/PietrangeloManco/ObjectDetectionUnlearning)
 
-- **Prisma** ([public workflow notebook](notebooks/Prisma_Public_Workflow.ipynb))<br>
-  Remote-monitoring platform designed to anticipate clinical deterioration through a web platform, a companion Android app, and wearable-driven data collection.
+---
 
-- **Omnipredict** ([public workflow notebook](notebooks/Omnipredict_Public_Workflow.ipynb))<br>
-  Sarcopenia prediction platform built around a deployed classifier and a production-ready web workflow.
+### Applied monitoring and risk workflows
 
-- **MedLavDelta**<br>
-  Management platform for occupational medicine workflows used in the context of Centro Delta.
+`PRIVATE PRODUCT SOURCE` · `PUBLIC WORKFLOW NOTES`
 
-- [ObjectDetectionUnlearning](https://github.com/PietrangeloManco/ObjectDetectionUnlearning)  
-  Public companion repository for my master's thesis on machine unlearning for object detection, focused on privacy-oriented forgetting and correction-oriented unlearning workflows.
+I build end-to-end ML products that connect data preparation, model inference, user-facing review, and deployment:
 
-- [MIRCV-Project](https://github.com/PietrangeloManco/MIRCV-Project)  
-  Search engine project focused on scalable multimedia information retrieval and large document collections.
+- **DeltaPrisma** — wearable-assisted longitudinal monitoring across a Django platform and an Android companion app. [Workflow notebook](notebooks/Prisma_Public_Workflow.ipynb) · [Web platform](https://deltaprisma.it/) · [Android app](https://play.google.com/store/apps/details?id=com.pietro.healthconnectmonitor&hl=it)
+- **Omnipredict** — a research-to-product risk-assessment workflow with a private model and web application. [Workflow notebook](notebooks/Omnipredict_Public_Workflow.ipynb) · [Live product](https://omnipredict.it/)
 
-- [GameGram](https://github.com/PietrangeloManco/GameGram)  
-  Java desktop social network built with a multi-database architecture based on Neo4j and MongoDB.
+The notebooks document architecture and reasoning with placeholders; they do not contain patient-level data, proprietary features, model weights, or production integration details.
 
-- [LaptopPricePrediction](https://github.com/PietrangeloManco/LaptopPricePrediction)  
-  Data mining and machine learning project for predicting laptop price ranges from hardware specifications.
+---
 
-## Private and internal work
+### Operational platforms for healthcare teams
 
-- **My Centro Delta** ([live platform](https://mycentrodelta.com/))<br>
-  Django appointment-management platform for outpatient clinic operations, covering patient access, doctor and service catalogues, booking requests, role-aware dashboards, and communication workflows.
+`PRIVATE EMPLOYER WORK` · `SANITIZED SHOWCASE`
 
-- **Delta Biotech Platform** ([live platform](https://deltabiotechpharma.it/))<br>
-  Django internal operational platform for laboratory and business workflows, covering activity planning, instrumentation, inventory, formulas, documentation, and role-based access.
+I design and maintain Django systems for appointment handling, laboratory and occupational workflows, planning, inventory, reporting, and role-aware team operations. Current deployments include [My Centro Delta](https://mycentrodelta.com/), [Delta Biotech Platform](https://deltabiotechpharma.it/), and [MedLavDelta](https://medlavdelta.it/).
 
-- **Banknotes.eu**<br>
-  Astro and MDX bilingual encyclopedic website about euro banknotes, organized around official sources, banknote series, security features, signatures, printing offices, serial-number context, and legal-tender status.
+[View the independent synthetic case study →](https://github.com/PietrangeloManco/healthcare-operations-platform-showcase)
 
-## Live products
+---
 
-- [DeltaPrisma web platform](https://deltaprisma.it/)
-- [DeltaPrisma Android app](https://play.google.com/store/apps/details?id=com.pietro.healthconnectmonitor&hl=it)
-- [Omnipredict](https://omnipredict.it/)
-- [MedLavDelta](https://medlavdelta.it/)
-- [My Centro Delta](https://mycentrodelta.com/)
-- [Delta Biotech Pharma](https://deltabiotechpharma.it/)
+### Editorial intelligence and production assurance
 
-## Product previews
+`PRIVATE CLIENT WORK` · `PUBLIC-SAFE PATTERNS`
 
-### My Centro Delta and Delta Biotech
+- **[Banknotes.eu](https://www.banknotes.eu/)** — a bilingual Astro/MDX editorial platform built around structured, source-led content and responsive delivery.
+- **Search visibility monitoring** — a private Django workflow combining browser automation, structured observations, and assisted analysis for repeatable monitoring.
+- **CMS change assurance** — guarded automation for inventory, deterministic snapshots, planned changes, cache alignment, and evidence-based verification.
+- **Production reliability** — watchdog, recovery, and verification patterns for containerized imaging infrastructure, without exposing production topology or access details.
 
-<table>
-  <tr>
-    <th align="center" width="50%">My Centro Delta</th>
-    <th align="center" width="50%">Delta Biotech Pharma</th>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="assets/screenshots/my-centro-delta-home.png" alt="My Centro Delta online booking homepage" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="assets/screenshots/delta-biotech-calendar.png" alt="Delta Biotech Pharma activity calendar" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Online booking flow for doctors, services, and visit requests.</sub></td>
-    <td align="center"><sub>Activity calendar for operational planning, filtering, and follow-up.</sub></td>
-  </tr>
-</table>
+[Explore the synthetic CMS assurance lab →](https://github.com/PietrangeloManco/wordpress-change-assurance-lab)
 
-### Prisma
+## Technical focus
 
-<table>
-  <tr>
-    <th align="center" width="33%">Web platform</th>
-    <th align="center" width="33%">Monitoring app</th>
-    <th align="center" width="33%">Prediction dashboard</th>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <img src="assets/screenshots/prisma-landing.png" alt="Prisma landing page" width="100%" />
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/screenshots/prisma-app-home.jpeg" alt="Prisma app monitoring home" width="100%" />
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/screenshots/prisma-app-dashboard.jpeg" alt="Prisma app predictions dashboard" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Landing and access flow.</sub></td>
-    <td align="center"><sub>Monitoring state and app entry point.</sub></td>
-    <td align="center"><sub>Predictions, alerts, and measurements.</sub></td>
-  </tr>
-</table>
+**Applied AI:** PyTorch, scikit-learn, evaluation design, privacy-aware ML · **Product:** Python, Django, REST APIs, TypeScript, Astro, Android/Kotlin · **Delivery:** PostgreSQL, Docker, Linux, CI, browser automation, observability
 
-### Omnipredict and MedLavDelta
+<details>
+<summary><strong>Earlier systems and academic projects</strong></summary>
 
-<table>
-  <tr>
-    <th align="center" width="50%">Omnipredict</th>
-    <th align="center" width="50%">MedLavDelta</th>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="assets/screenshots/omnipredict-manual.png" alt="Omnipredict manual prediction" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="assets/screenshots/medlav-admin-redacted.png" alt="MedLavDelta admin dashboard" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Manual sarcopenia prediction flow.</sub></td>
-    <td align="center"><sub>Operational dashboard with redacted business data.</sub></td>
-  </tr>
-</table>
+<br />
+
+- [MIRCV-Project](https://github.com/PietrangeloManco/MIRCV-Project) — compressed indexing, BM25/TF-IDF retrieval, and large-collection search.
+- [GameGram](https://github.com/PietrangeloManco/GameGram) — Java/JavaFX social application using MongoDB and Neo4j.
+- [LaptopPricePrediction](https://github.com/PietrangeloManco/LaptopPricePrediction) — notebook-based data preparation, modelling, and evaluation for price-range prediction.
+
+</details>
+
+## Public/private boundary
+
+Production repositories for employer and client work stay private. Public companions are created from scratch with synthetic data, independently authored illustrative code, and reviewed visuals; they exclude production history, credentials, personal or business data, model weights, private datasets, infrastructure details, and client-specific logic.
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/pietrangelomanco](https://www.linkedin.com/in/pietrangelomanco/)
-- Email: `pietrangelo.manco26@gmail.com`
+[LinkedIn](https://www.linkedin.com/in/pietrangelomanco/) · [pietrangelo.manco26@gmail.com](mailto:pietrangelo.manco26@gmail.com)
