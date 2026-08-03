@@ -20,9 +20,9 @@ This is Pietrangelo Manco's GitHub profile repository. Manage it as a curated pr
 - Treat `Prisma_IDE`, `Omnipredict_IDE`, and `MedLavDelta_IDE` as private repositories: mention them high-level, do not link source code.
 - Point Prisma and Omnipredict references to their public workflow notebooks stored in this profile repository.
 - Treat `CentroDeltaIDAB` as My Centro Delta.
-- Treat `deltabiotech-platform` as Delta Biotech Platform.
+- Treat `delta-biotech-pharma` as Delta Biotech Pharma.
 - Use `https://mycentrodelta.com/` as the live product URL for My Centro Delta.
-- Use `https://deltabiotechpharma.it/` as the live product URL for Delta Biotech Platform / Delta Biotech Pharma.
+- Use `https://deltabiotechpharma.it/` as the live product URL for Delta Biotech Pharma.
 - Banknotes.eu can be shown as a private/high-level web project.
 - Link private-work code only through fresh public companions with unrelated Git history and independently authored synthetic examples.
 - Use `healthcare-operations-platform-showcase` for the generic operational-platform abstraction.

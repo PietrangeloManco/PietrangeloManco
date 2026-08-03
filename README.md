@@ -43,7 +43,7 @@ The notebooks document architecture and reasoning with placeholders; they do not
 
 `PRIVATE EMPLOYER WORK` · `SANITIZED SHOWCASE`
 
-I design and maintain Django systems for appointment handling, laboratory and occupational workflows, planning, inventory, reporting, and role-aware team operations. Current deployments include [My Centro Delta](https://mycentrodelta.com/), [Delta Biotech Platform](https://deltabiotechpharma.it/), and [MedLavDelta](https://medlavdelta.it/).
+I design and maintain Django systems for appointment handling, laboratory and occupational workflows, planning, inventory, reporting, and role-aware team operations. Current deployments include [My Centro Delta](https://mycentrodelta.com/), [Delta Biotech Pharma](https://deltabiotechpharma.it/), and [MedLavDelta](https://medlavdelta.it/).
 
 [View the independent synthetic case study →](https://github.com/PietrangeloManco/healthcare-operations-platform-showcase)
 
